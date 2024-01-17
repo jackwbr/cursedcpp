@@ -1,0 +1,2 @@
+# cursedcpp
+Cursed C++ code. 
