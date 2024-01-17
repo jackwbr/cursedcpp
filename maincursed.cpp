@@ -7,5 +7,17 @@ int                   main()
 
 
 {
-    cout << "H" << "e" << "l" << "l" << "o" << " " << "W" << "o" << "r" << "l" << "d" << "!" << endl;
+    string fiveminusfour = "h";
+    string tenminuseight = "e";
+    string three = "l";
+    string twoplustwo = "l";
+    string twoandonehalfplustwoandonehalf = "o";
+    string onelessthanseven = "w";
+    string onemorethansix = "o";
+    string eightyminusseventytwo = "r";
+    string noingerman = "l";
+    string omgdoubledigits = "d";
+    string air = " ";
+    cout << fiveminusfour << tenminuseight << three << twoplustwo << twoandonehalfplustwoandonehalf <<  air << onelessthanseven << onemorethansix << eightyminusseventytwo << noingerman << omgdoubledigits << endl;
 }
+
