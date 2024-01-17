@@ -35,8 +35,7 @@ int                   main()
     cout << fiveminusfour << tenminuseight << three << twoplustwo << twoandonehalfplustwoandonehalf <<  air << onelessthanseven << onemorethansix << eightyminusseventytwo << noingerman << omgdoubledigits << endl;
     while(False)
     {
-        cout << count;
-        count++;
+        //serious; do something with printing the string as numbers, use count as control. haha im so funny. gtg study math :/
     }
 }
 
