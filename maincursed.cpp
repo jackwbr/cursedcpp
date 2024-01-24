@@ -39,3 +39,7 @@ int                   main()
     }
 }
 
+
+if (1 < 2){
+  cout << "hi" << endl;
+}
